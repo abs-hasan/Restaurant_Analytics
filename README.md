@@ -27,3 +27,9 @@ Having answers to these questions will help us to deliver a better and more pers
 > To see the solution in 
 * [TSQL-SSMS](https://github.com/Learner0112/Restaurant_Analytics/tree/main/TSQL)
 * [MySQL](https://github.com/Learner0112/Restaurant_Analytics/tree/main/MySQL)...(WIP)
+
+<br>
+<br>
+<br>
+
+_This Case study is a part of [**8 Week SQL Challenge by Danny Ma**](https://8weeksqlchallenge.com/)_
