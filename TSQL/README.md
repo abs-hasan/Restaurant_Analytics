@@ -82,17 +82,18 @@ FROM
 GROUP BY s.customer_id,
          s.product_id,
          m.product_name;
-GO```
+GO
+```
 
 > **Results**
 
 
-| customer_id | product_id | product_name	| order_date |
+| customer_id | product_id | product_name | order_date |
 |---|---|---|---|
-| A	| 1	| sushi	| 2021-01-01 | 
-| A	| 2	| curry	| 2021-01-01 | 
-| B	| 2	| curry	| 2021-01-01 | 
-| C	| 3	| ramen	| 2021-01-01 | 
+| A | 1 | sushi | 2021-01-01 | 
+| A | 2 | curry | 2021-01-01 | 
+| B | 2 | curry | 2021-01-01 | 
+| C | 3 | ramen | 2021-01-01 | 
 
 ---
 
