@@ -32,4 +32,3 @@ Having answers to these questions will help us to deliver a better and more pers
 <br>
 <br>
 
-_This Case study is a part of [**8 Week SQL Challenge by Danny Ma**](https://8weeksqlchallenge.com/)_
